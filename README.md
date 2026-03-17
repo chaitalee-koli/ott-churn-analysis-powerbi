@@ -1,5 +1,6 @@
 OTT Customer Churn Analysis Dashboard
-##Project Overview
+
+## Project Overview
 This project analyzes customer churn behavior for an OTT platform using Power BI, SQL, and Excel.
 The goal is to identify key factors influencing customer cancellations and provide actionable insights to improve retention and revenue.
 
@@ -13,7 +14,7 @@ The goal is to identify key factors influencing customer cancellations and provi
 - Churn Rate
 - Active vs Inactive Users
 - Revenue Lost
-- 
+  
 ## Key Insights
 1. Customer Churn Overview
 -Displays total churned customers and churn rate
